@@ -1,4 +1,4 @@
-# Final Project - JavasScript Fundamentals
+# Final Project - JavaScript Fundamentals
 
 <img src="https://www.treinaweb.com.br/assets/images/favicon-32x32.png" align="center"> - <a href="https://www.treinaweb.com.br/certificado/WUV9Z1YPZ9ZU" target="_blank">Certificate</a> -
 <a href="https://www.treinaweb.com.br/curso/javascript-fundamentos/ementa/javascript-fundamentos.pdf" target="_blank">Syllabus</a>
